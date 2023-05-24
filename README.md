@@ -1,6 +1,6 @@
 # odin-landing-page
 
-In this project, a webpage is created from scratch and this process demonstrates basic HTML and CSS skills.
+In this project, a webpage is created from scratch. This process demonstrates basic HTML and CSS skills.
 
 Image credits:
 - Logo word art: created using <a href="https://https://inkpx.com/">InkPx</a>
