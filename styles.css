@@ -70,3 +70,64 @@ button{
     width: 400px;
     border-radius: 8px;    
 }
+
+
+.info-content{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 40px;
+    margin-bottom: 100px;
+}
+
+.info-title{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.info-img{
+    width: 200px;
+    border-radius: 8px;
+    border: 4px;
+    border-style: solid;
+    border-color: #3882F6;
+    margin-bottom: 8px;
+}
+
+.info-text{
+    color: #626A77;    
+    font-size: 18px;
+    text-align: center;
+}
+
+.info-element{
+    max-width: 208px;
+}
+
+
+.quote{
+    background-color: #E5E7EB;
+    color: #1F2937;    
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    max-width: 800px;
+}
+
+.quote-sayer{
+    font-size: 24px;
+    font-weight: 700;
+    align-self: center;
+    margin-left: 500px;    
+}
